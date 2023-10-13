@@ -1,2 +1,2 @@
 # lil-kev
-A very simple repo to test NPM 
+A very simple repo to test an NPM project
