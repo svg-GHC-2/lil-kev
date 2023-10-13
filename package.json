@@ -3,13 +3,14 @@
     "version": "1.0.0",
     "description": "A very simple NPM package",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/lil-kev.git"
+        "type": "git",
+        "url": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/lil-kev.git"
     },
     "dependencies": {
+        "axios": "0.1.0",
         "lodash": "2.4.1"
     }
 }
