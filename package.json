@@ -10,6 +10,6 @@
       "url": "http://ec2-3-133-17-3.us-east-2.compute.amazonaws.com/SVGGHE/lil-kev.git"
     },
     "dependencies": {
-        "lodash": "2.4.1"
+        "lodash": "4.17.21"
     }
 }
